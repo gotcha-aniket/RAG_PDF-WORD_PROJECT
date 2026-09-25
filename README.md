@@ -1,1 +1,2 @@
 Multi-source RAG chatbot built with Streamlit, LangChain, and Google Gemini. Ingest PDFs, Word docs, PowerPoints, websites, and YouTube transcripts into a Chroma vector store and ask grounded questions across all of them — with automatic retry/backoff to handle Gemini free-tier rate limits.
+https://synapse-iq-knowledge.streamlit.app/
